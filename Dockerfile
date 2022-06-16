@@ -6,6 +6,7 @@ RUN apk add --no-cache curl caddy jq bash runit tzdata ttyd p7zip findutils node
     && chmod +x /workdir/service/*/run /workdir/service/*/log/run /workdir/*.sh \
     && /workdir/install.sh \
     && rm -rf /workdir/install.sh /tmp/* ${HOME}/.cache \
-    && npm install -g @web3-storage/w3
+    && npm install -g @web3-storage/w3 \
+    && npm install -g fleek-upload
 
 ENTRYPOINT ["sh","/workdir/entrypoint.sh"]
