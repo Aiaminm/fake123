@@ -14,8 +14,8 @@ async function upLoad(filename){
 
 
 const upinput = {
-    apiKey: input.fleek_api_token,
-    apiSecret: input.fleek_api_secret,
+    apiKey: process.env.fleek_api_token,
+    apiSecret: process.env.fleek_api_secret,
     key: `upload/`+path.basename(filename),
     stream: fs.createReadStream(filename),
   };
