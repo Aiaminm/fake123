@@ -11,7 +11,10 @@ upLoad(pathre)
 
 
 async function upLoad(filename){
-
+var i=0
+var j=1
+while(i==0&&j<4){
+try {
 
 const upinput = {
     apiKey: process.env.fleek_api_token,
@@ -22,6 +25,11 @@ const upinput = {
   console.log('开始上传 '+filename)
   const result = await fleek.streamUpload(upinput);
   console.log(result)
+  i++
 }
-
-
+catch (error) {
+console.error(path.basename(filename)+'上传失败 '+j)
+j++
+}
+}
+}
