@@ -38,6 +38,10 @@
         "fleek_api_token": {
             "description": "api token",
             "value": "api token"
+        },
+        "fleek_api_secret": {
+            "description": "fleek_api_secret",
+            "value": "fleek_api_secret"
         }
         
     },
