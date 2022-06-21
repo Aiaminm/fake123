@@ -18,7 +18,8 @@ if [ ! -f "/mnt/data/config/script.conf" ]; then
        cp /workdir/script.conf /mnt/data/config/script.conf
 fi
 
-mkdir -p /mnt/data/config/qBittorrent
+mkdir -p /mnt/data/config/qBittorrent 
+mkdir -p /mnt/data/config/qBittorrent/config
 cp -r /workdir/rss/ /mnt/data/config/qBittorrent/config/
 
 exec runsvdir -P /etc/service
