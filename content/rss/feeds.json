@@ -10,5 +10,21 @@
     "Nyaa nc-raws RSS": {
         "uid": "{4631ccbd-2995-47af-91ad-52cf181848df}",
         "url": "https://nyaa.si/?page=rss&u=BraveSail"
+    },
+    "Nyaa 酷漫404 RSS": {
+        "uid": "{2cdc0ccd-7eb2-448b-a3fd-03b9f1cb0562}",
+        "url": "https://nyaa.si/?page=rss&u=coolcomic404"
+    },
+    "番組、萌え 喵萌奶茶屋": {
+        "uid": "{f86e2afc-fc5a-435f-b7a1-6ad512d5b05e}",
+        "url": "https://bangumi.moe/rss/tags/58a9c1e6f5dc363606ab42ed"
+    },
+    "番組、萌え 樱都": {
+        "uid": "{4577faa8-b17d-4f43-b84c-dd5c09049087}",
+        "url": "https://bangumi.moe/rss/tags/57a034ee5cc0696f1ce1a1b2"
+    },
+    "萌番组 lpsub": {
+        "uid": "{4eb1731c-cdbf-47dd-985f-c085ce569094}",
+        "url": "https://bangumi.moe/rss/tags/61b5d00f2525b000079c7480"
     }
 }
