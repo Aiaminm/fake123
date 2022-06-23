@@ -64,6 +64,13 @@ const upinput = {
     stream: fs.createReadStream(forpath),
   };
   console.log('开始上传 '+forpath)
+  
+  try {
+
   const result = await fleek.streamUpload(upinput);
   console.log(result)
+  } catch (error) {
+    console.error('上传错误'+error)
+  }
+
 }
