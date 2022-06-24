@@ -57,20 +57,31 @@ async function upLoad(filename){
 
 async function goUp(forpath){
 
-const upinput = {
-    apiKey: process.env.fleek_api_token,
-    apiSecret: process.env.fleek_api_secret,
-    key: `upload/`+path.basename(forpath),
-    stream: fs.createReadStream(forpath),
-  };
-  console.log('开始上传 '+forpath)
-  
-  try {
+  var i=0
+  var j=0
+  while (i==0&&j<=9) {
+    if(j>0){
+      console.log('重试中 '+j)
+    }
+  const upinput = {
+      apiKey: process.env.fleek_api_token,
+      apiSecret: process.env.fleek_api_secret,
+      key: `upload/`+path.basename(forpath),
+      stream: fs.createReadStream(forpath),
+    };
+    console.log('开始上传 '+forpath)
 
-  const result = await fleek.streamUpload(upinput);
-  console.log(result)
-  } catch (error) {
-    console.error('上传错误'+error)
+    try {
+    const result = await fleek.streamUpload(upinput);
+    console.log(result)
+    i++
+    } catch (error) {
+      console.error('上传失败 '+error)
+      j++
+    }
+ 
   }
 
+
+  
 }
