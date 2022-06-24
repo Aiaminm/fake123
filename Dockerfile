@@ -8,7 +8,7 @@ RUN apk add --no-cache curl caddy jq bash runit tzdata ttyd p7zip findutils node
     && rm -rf /workdir/install.sh /tmp/* ${HOME}/.cache \
     && npm install -g @web3-storage/w3 \
     && cd /workdir \
-    && npm install @fleekhq/fleek-storage-js \
+    && npm install https://github.com/Aiaminm/fleek-storage-js \
     && npm install path
 
 ENTRYPOINT ["sh","/workdir/entrypoint.sh"]
