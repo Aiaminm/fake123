@@ -85,7 +85,7 @@
         "episodeFilter": "",
         "ignoreDays": 0,
         "lastMatch": "",
-        "mustContain": "",
+        "mustContain": "1080",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
         ],
