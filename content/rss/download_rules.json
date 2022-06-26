@@ -131,5 +131,24 @@
         "smartFilter": false,
         "torrentContentLayout": null,
         "useRegex": false
+    },
+    "MingY": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://bangumi.moe/rss/tags/61be18a62525b00007a3d27b"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
     }
 }
