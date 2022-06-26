@@ -63,11 +63,12 @@ async function goUp(forpath){
     if(j>0){
       console.log('重试中 '+j)
     }
+  let stream=fs.createReadStream(forpath)
   const upinput = {
       apiKey: process.env.fleek_api_token,
       apiSecret: process.env.fleek_api_secret,
       key: `upload/`+path.basename(forpath),
-      stream: fs.createReadStream(forpath),
+      stream: stream,
     };
     console.log('开始上传 '+forpath)
 
@@ -76,6 +77,7 @@ async function goUp(forpath){
     console.log(result)
     i++
     } catch (error) {
+      stream.close()
       console.error('上传失败 '+error)
       j++
     }
