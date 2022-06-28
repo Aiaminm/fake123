@@ -17,5 +17,43 @@
         "smartFilter": false,
         "torrentContentLayout": null,
         "useRegex": false
+    },
+       "酷漫404": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&u=coolcomic404"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+       "喵萌奶茶屋": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://bangumi.moe/rss/tags/58a9c1e6f5dc363606ab42ed"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "1080",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
     }
 }
