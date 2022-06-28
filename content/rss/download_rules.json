@@ -1,61 +1,5 @@
 {
-    "Lilith-Raws": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://nyaa.si/?page=rss&u=Lilith-Raws"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "22 Jun 2022 15:35:38 +0000",
-        "mustContain": "",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": false
-    },
-    "NDK": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://nyaa.si/?page=rss&u=NanDesuKa"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "22 Jun 2022 15:42:11 +0000",
-        "mustContain": "1080",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": true
-    },
-    "lpsub": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://bangumi.moe/rss/tags/61b5d00f2525b000079c7480"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "11 Apr 2022 01:20:05 +0000",
-        "mustContain": "",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": false
-    },
+    
     "nc-raws": {
         "addPaused": null,
         "affectedFeeds": [
@@ -75,63 +19,7 @@
         "torrentContentLayout": null,
         "useRegex": false
     },
-    "喵萌奶茶屋": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://bangumi.moe/rss/tags/58a9c1e6f5dc363606ab42ed"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "",
-        "mustContain": "1080",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": false
-    },
-    "樱都": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://bangumi.moe/rss/tags/57a034ee5cc0696f1ce1a1b2"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "",
-        "mustContain": "",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": false
-    },
-    "酷漫404": {
-        "addPaused": null,
-        "affectedFeeds": [
-            "https://nyaa.si/?page=rss&u=coolcomic404"
-        ],
-        "assignedCategory": "",
-        "enabled": true,
-        "episodeFilter": "",
-        "ignoreDays": 0,
-        "lastMatch": "",
-        "mustContain": "",
-        "mustNotContain": "",
-        "previouslyMatchedEpisodes": [
-        ],
-        "savePath": "",
-        "smartFilter": false,
-        "torrentContentLayout": null,
-        "useRegex": false
-    },
+    
     "MingY": {
         "addPaused": null,
         "affectedFeeds": [
