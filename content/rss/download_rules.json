@@ -38,5 +38,24 @@
         "smartFilter": false,
         "torrentContentLayout": null,
         "useRegex": false
+    },
+    "樱都": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://bangumi.moe/rss/tags/57a034ee5cc0696f1ce1a1b2"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "",
+        "mustContain": "",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
     }
 }
