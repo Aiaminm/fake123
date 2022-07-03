@@ -1,4 +1,8 @@
 {
+    "Nyaa CameEsp RSS": {
+        "uid": "{c2542406-5c6d-4124-a2e7-979431692589}",
+        "url": "https://nyaa.si/?page=rss&u=Mayansito"
+    },
     "Nyaa Lilith-Raws RSS": {
         "uid": "{bc87110a-bb37-481f-b998-ce41e5af74ed}",
         "url": "https://nyaa.si/?page=rss&u=Lilith-Raws"
