@@ -1,25 +1,23 @@
 {
-    
-    "nc-raws": {
+    "CameEsp": {
         "addPaused": null,
         "affectedFeeds": [
-            "https://nyaa.si/?page=rss&u=BraveSail"
+            "https://nyaa.si/?page=rss&u=Mayansito"
         ],
         "assignedCategory": "",
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "22 Jun 2022 15:31:27 +0000",
-        "mustContain": "",
+        "lastMatch": "",
+        "mustContain": "1080",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
         ],
         "savePath": "",
         "smartFilter": false,
         "torrentContentLayout": null,
-        "useRegex": false
+        "useRegex": true
     },
-    
     "MingY": {
         "addPaused": null,
         "affectedFeeds": [
@@ -29,7 +27,26 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "",
+        "lastMatch": "02 Jul 2022 11:21:34 +0000",
+        "mustContain": "",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "nc-raws": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&u=BraveSail"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "03 Jul 2022 05:07:34 +0000",
         "mustContain": "",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
@@ -48,7 +65,7 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "",
+        "lastMatch": "28 Jun 2022 17:32:52 +0000",
         "mustContain": "",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
