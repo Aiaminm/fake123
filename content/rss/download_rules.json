@@ -1,5 +1,5 @@
 {
-   "lpsub": {
+    "lpsub": {
         "addPaused": null,
         "affectedFeeds": [
             "https://bangumi.moe/rss/tags/61b5d00f2525b000079c7480"
@@ -8,7 +8,7 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "11 Apr 2022 01:20:05 +0000",
+        "lastMatch": "28 Jun 2022 15:29:56 +0000",
         "mustContain": "",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
@@ -18,16 +18,35 @@
         "torrentContentLayout": null,
         "useRegex": false
     },
-       "酷漫404": {
+    "动漫国": {
         "addPaused": null,
         "affectedFeeds": [
-            "https://nyaa.si/?page=rss&u=coolcomic404"
+            "https://bangumi.moe/rss/tags/55c057b124180bc3647feb1d"
         ],
         "assignedCategory": "",
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
         "lastMatch": "",
+        "mustContain": "1080",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": true
+    },
+    "千夏字幕组": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://bangumi.moe/rss/tags/54bbe80a76870aad3bb603df"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "01 Jun 2022 15:47:04 +0000",
         "mustContain": "",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
@@ -37,7 +56,7 @@
         "torrentContentLayout": null,
         "useRegex": false
     },
-       "喵萌奶茶屋": {
+    "喵萌奶茶屋": {
         "addPaused": null,
         "affectedFeeds": [
             "https://bangumi.moe/rss/tags/58a9c1e6f5dc363606ab42ed"
@@ -46,8 +65,46 @@
         "enabled": true,
         "episodeFilter": "",
         "ignoreDays": 0,
-        "lastMatch": "",
+        "lastMatch": "10 Jul 2022 05:32:05 +0000",
         "mustContain": "1080",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": false
+    },
+    "幻樱字幕组": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://bangumi.moe/rss/tags/59af67e6d04829c1623b0e52"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "24 Jun 2022 23:47:51 +0000",
+        "mustContain": "1080",
+        "mustNotContain": "",
+        "previouslyMatchedEpisodes": [
+        ],
+        "savePath": "",
+        "smartFilter": false,
+        "torrentContentLayout": null,
+        "useRegex": true
+    },
+    "酷漫404": {
+        "addPaused": null,
+        "affectedFeeds": [
+            "https://nyaa.si/?page=rss&u=coolcomic404"
+        ],
+        "assignedCategory": "",
+        "enabled": true,
+        "episodeFilter": "",
+        "ignoreDays": 0,
+        "lastMatch": "10 Jul 2022 06:51:20 +0000",
+        "mustContain": "",
         "mustNotContain": "",
         "previouslyMatchedEpisodes": [
         ],
