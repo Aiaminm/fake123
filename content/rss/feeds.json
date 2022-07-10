@@ -1,14 +1,26 @@
 {
-    "萌番组 lpsub": {
-        "uid": "{4eb1731c-cdbf-47dd-985f-c085ce569094}",
-        "url": "https://bangumi.moe/rss/tags/61b5d00f2525b000079c7480"
+    "Nyaa 酷漫404 RSS": {
+        "uid": "{2cdc0ccd-7eb2-448b-a3fd-03b9f1cb0562}",
+        "url": "https://nyaa.si/?page=rss&u=coolcomic404"
+    },
+    "番組、萌え 动漫国": {
+        "uid": "{7790fc08-eb1b-47ed-8934-fea4cd8af96a}",
+        "url": "https://bangumi.moe/rss/tags/55c057b124180bc3647feb1d"
+    },
+    "番組、萌え 千夏字幕组": {
+        "uid": "{5d42ecc8-07a5-4688-8237-869413421fa1}",
+        "url": "https://bangumi.moe/rss/tags/54bbe80a76870aad3bb603df"
     },
     "番組、萌え 喵萌奶茶屋": {
         "uid": "{f86e2afc-fc5a-435f-b7a1-6ad512d5b05e}",
         "url": "https://bangumi.moe/rss/tags/58a9c1e6f5dc363606ab42ed"
     },
-    "Nyaa 酷漫404 RSS": {
-        "uid": "{2cdc0ccd-7eb2-448b-a3fd-03b9f1cb0562}",
-        "url": "https://nyaa.si/?page=rss&u=coolcomic404"
+    "番組、萌え 幻樱字幕组": {
+        "uid": "{7b594339-b4b0-415f-93f5-13c18d83bb42}",
+        "url": "https://bangumi.moe/rss/tags/59af67e6d04829c1623b0e52"
+    },
+    "萌番组 lpsub": {
+        "uid": "{4eb1731c-cdbf-47dd-985f-c085ce569094}",
+        "url": "https://bangumi.moe/rss/tags/61b5d00f2525b000079c7480"
     }
 }
